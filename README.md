@@ -1,2 +1,3 @@
 # sweep-mine-in-minecraft
-*Insert Optional Description*
+まいんすいーぱー on まいんくらふと
+めも: スーパーフラットのワールドを作成して、それをフィールドとした大規模な地雷探知をする
