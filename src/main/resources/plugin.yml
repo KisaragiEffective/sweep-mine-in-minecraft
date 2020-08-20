@@ -1,0 +1,4 @@
+name: @name@
+main: com.github.kisaragieffective.sweepmine.SweepMine
+version: @version@
+api-version: "1.16"
